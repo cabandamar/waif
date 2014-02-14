@@ -19,9 +19,6 @@ Things you might be forgetting when traveling
 * Sunglasses
 * Quarters
 * Dollar coins
-
-Some other things that you might forget:
-
 * Passport/ID
 * Unlocked cell phone if traveling internationally
 * Sunscreen
@@ -45,6 +42,7 @@ Some other things that you might forget:
 * Brush/hair ties/bobby pins
 * Feminine products
 * Umbrella
+* Cough drops
 
 Things you might forget to do before traveling:
 
