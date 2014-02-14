@@ -17,6 +17,8 @@ Things you might be forgetting when traveling
 * Power outlet splitter
 * Pen and paper
 * Sunglasses
+* Quarters
+* Dollar coins
 
 Some other things that you might forget:
 
