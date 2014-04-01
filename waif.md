@@ -16,6 +16,8 @@ Things you might be forgetting when traveling
 * Business cards
 * Razor/shaving supplies
 * Power outlet splitter
+* 3-to-2 power plug adapter
+* HDMI cable
 * Pen and paper
 * Sunglasses
 * Quarters
