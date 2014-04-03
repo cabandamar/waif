@@ -46,6 +46,8 @@ Things you might be forgetting when traveling
 * Feminine products
 * Umbrella
 * Cough drops
+* Personal hand santizer
+* Hand sanitizer to share
 
 Things you might forget to do before traveling:
 
