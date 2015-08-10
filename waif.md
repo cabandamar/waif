@@ -49,6 +49,8 @@ Things you might be forgetting when traveling
 * Personal hand santizer
 * Hand sanitizer to share
 * Neck pillow
+* Underwear
+* Soap
 
 Things you might forget to do before traveling:
 
