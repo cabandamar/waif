@@ -51,6 +51,11 @@ Things you might be forgetting when traveling
 * Neck pillow
 * Underwear
 * Soap
+* Allergy medication
+* Mouse / USB OTG adapter
+* Baby wipes
+* Extra pants
+* Cup / extra water bottle
 
 Things you might forget to do before traveling:
 
