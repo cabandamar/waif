@@ -56,6 +56,13 @@ Things you might be forgetting when traveling
 * Baby wipes
 * Extra pants
 * Cup / extra water bottle
+* Dark chocolate
+* AA batteries
+* Air mattress
+* Disable switch on mattress pump
+* Bug spray
+* Hydrocortisone
+* Laser
 
 Things you might forget to do before traveling:
 
