@@ -63,6 +63,7 @@ Things you might be forgetting when traveling
 * Bug spray
 * Hydrocortisone
 * Laser
+* Extra eyeglasses
 
 Things you might forget to do before traveling:
 
