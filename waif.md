@@ -26,6 +26,8 @@ Things you might be forgetting when traveling
 * Unlocked cell phone if traveling internationally
 * Sunscreen
 * Tweezers
+* Nail clipper
+* Nail file
 * Towel
 * Pajamas
 * Emergency medication
@@ -51,6 +53,7 @@ Things you might be forgetting when traveling
 * Neck pillow
 * Underwear
 * Soap
+* Pouf
 * Allergy medication
 * Mouse / USB OTG adapter
 * Baby wipes
