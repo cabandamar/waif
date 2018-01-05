@@ -67,6 +67,7 @@ Things you might be forgetting when traveling
 * Hydrocortisone
 * Laser
 * Extra eyeglasses
+* Music for the car ride
 
 Things you might forget to do before traveling:
 
