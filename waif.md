@@ -30,6 +30,7 @@ Things you might be forgetting when traveling
 * Nail file
 * Towel
 * Pajamas
+* Bathrobe
 * Emergency medication
 * CharlieCard/public transit token
 * Cash
