@@ -69,19 +69,24 @@ Things you might be forgetting when traveling
 * Laser
 * Extra eyeglasses
 * Music for the car ride
+* Bluetooth speaker (charged)
+* Two-factor authentication fob
 
 Things you might forget to do before traveling:
 
 * Check the weather forecast
 * Turn off your alarm clock
 * Lock your doors
+* Close windows
 * Make sure your stove/oven is off
 * Close garage door
 * Turn thermostat up/down/off
+* Open closets and cabinets to prevent pipes freezing
 * Suspend mail delivery/arrange for someone to bring it in
+* Close mailbox to prevent birds nesting
 * Arrange to have sidewalk shoveled
 * Turn off (or on) automatic cat feeder
 * Email forwarding/autoresponders
 * Telephone forwarding/voicemail
 * Scour perishables from refrigerator
-
+* Close refrigerator door
