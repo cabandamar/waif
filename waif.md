@@ -1,6 +1,7 @@
 Things you might be forgetting when traveling
 
 * Toothbrush/toothpaste
+* Electric toothbrush charger
 * Cell phone charger (and USB cable for tethering?)
 * Cell phone spare batteries
 * Laptop charger/laptop
@@ -60,6 +61,7 @@ Things you might be forgetting when traveling
 * Baby wipes
 * Extra pants
 * Cup / extra water bottle
+* Bowl
 * Dark chocolate
 * AA batteries
 * Air mattress
