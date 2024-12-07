@@ -2,6 +2,9 @@ Things you might be forgetting when traveling
 
 * Toothbrush/toothpaste
 * Electric toothbrush charger
+* Cell phone
+* Cell phone
+* Cell phone
 * Cell phone charger (and USB cable for tethering?)
 * Cell phone spare batteries
 * Laptop charger/laptop
