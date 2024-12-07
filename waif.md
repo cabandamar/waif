@@ -34,6 +34,7 @@ Things you might be forgetting when traveling
 * Nail clipper
 * Nail file
 * Towel
+* Hand towel
 * Pajamas
 * Bathrobe
 * Emergency medication
