@@ -97,3 +97,4 @@ Things you might forget to do before traveling:
 * Telephone forwarding/voicemail
 * Scour perishables from refrigerator
 * Close refrigerator door
+* Save clock batteries
