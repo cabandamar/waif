@@ -60,6 +60,7 @@ Things you might be forgetting when traveling
 * Underwear
 * Soap
 * Pouf
+* Massage tools
 * Portable bidet
 * Allergy medication
 * Mouse / USB OTG adapter
@@ -94,6 +95,8 @@ Things you might forget to do before traveling:
 * Arrange to have sidewalk shoveled
 * Turn off (or on) automatic cat feeder
 * Email forwarding/autoresponders
+* Refresh cryptographic tokens
+* Check that local servers are up
 * Telephone forwarding/voicemail
 * Scour perishables from refrigerator
 * Close refrigerator door
