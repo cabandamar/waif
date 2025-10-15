@@ -13,8 +13,14 @@ Things you might be forgetting when traveling
 * Earplugs/little eye covering thing
 * Swimsuit
 * Real suit
-* Appropriate shoes
 * Tie
+* Pajamas
+* Bathrobe
+* Extra pants
+* Hoodie
+* Underwear
+* Belt
+* Appropriate shoes
 * A book for the plane (but I always overestimate how much I will actually read)
 * European power plugs (if necessary)
 * Business cards
@@ -34,12 +40,9 @@ Things you might be forgetting when traveling
 * Nail file
 * Towel
 * Hand towel
-* Pajamas
-* Bathrobe
 * Emergency medication
 * CharlieCard/public transit token
 * Cash
-* Belt
 * Weather-appropriate clothing (jacket?)
 * Travel journal
 * Dictionary
@@ -57,8 +60,8 @@ Things you might be forgetting when traveling
 * Personal hand santizer
 * Hand sanitizer to share
 * Neck pillow
-* Underwear
 * Soap
+* Laundry detergent
 * Pouf
 * Massage tools
 * Portable bidet
@@ -67,7 +70,6 @@ Things you might be forgetting when traveling
 * Baby wipes
 * Face masks
 * COVID tests
-* Extra pants
 * Cup / extra water bottle
 * Bowl
 * Dark chocolate
