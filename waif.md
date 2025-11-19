@@ -83,6 +83,7 @@ Things you might be forgetting when traveling
 * Music for the car ride
 * Bluetooth speaker (charged)
 * Two-factor authentication fob
+* Laundry bag
 
 Things you might forget to do before traveling:
 
@@ -103,5 +104,7 @@ Things you might forget to do before traveling:
 * Check that local servers are up
 * Telephone forwarding/voicemail
 * Scour perishables from refrigerator
+* Slowly spoiling foods (oils, nut butters) into refrigerator
 * Close refrigerator door
 * Save clock batteries
+* Toilet not running
