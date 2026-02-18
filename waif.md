@@ -68,6 +68,7 @@ Things you might be forgetting when traveling
 * Allergy medication
 * Mouse / USB OTG adapter
 * Baby wipes
+* Distilled water
 * Face masks
 * COVID tests
 * Cup / extra water bottle
