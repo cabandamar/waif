@@ -64,6 +64,7 @@ Things you might be forgetting when traveling
 * Laundry detergent
 * Pouf
 * Massage tools
+* Orthopedic braces
 * Portable bidet
 * Allergy medication
 * Mouse / USB OTG adapter
@@ -109,3 +110,4 @@ Things you might forget to do before traveling:
 * Close refrigerator door
 * Save clock batteries
 * Toilet not running
+* Toilet seat and lid up to prevent mold
