@@ -104,7 +104,7 @@ Things you might forget to do before traveling:
 * Turn off (or on) automatic cat feeder
 * Email forwarding/autoresponders
 * Refresh cryptographic tokens
-* Check that local servers are up
+* Check that local servers are up, disks, RAM
 * Telephone forwarding/voicemail
 * Scour perishables from refrigerator
 * Slowly spoiling foods (oils, nut butters) into refrigerator
