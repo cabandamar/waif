@@ -19,6 +19,7 @@ Things you might be forgetting when traveling
 * Extra pants
 * Hoodie
 * Underwear
+* Extra socks
 * Belt
 * Appropriate shoes
 * A book for the plane (but I always overestimate how much I will actually read)
